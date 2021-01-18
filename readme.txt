@@ -1,5 +1,3 @@
-Full name: Patrick Kim
-SFU student #: 301415276
 
 
 Compilation Instructions
